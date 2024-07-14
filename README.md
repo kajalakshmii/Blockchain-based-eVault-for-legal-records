@@ -49,6 +49,3 @@ npx hardhat node
 - Configuration: Set up environment variables, obtain API keys for Pinata, and update React components with Pinata API keys.
 - Running the Application: Start the React application using npm start. Ensure MetaMask is installed and configured for Ethereum interactions.
 - Interacting with the System: Follow the instructions in the application to upload records, manage access, and utilize MetaMask for Ethereum transactions.
-## Contributors
-S.KAJALAKSHMI
-P.SHRUTHI
