@@ -71,7 +71,7 @@ Modifications and additional features were developed by:
 - **Saquib Hussain**
 
 ## License      
-This project is licensed under the MIT License - see the [LICENSE]([LICENSE](https://github.com/kajalakshmii/DEVELOPING-A-BLOCKCHAIN-BASED-EVAULT-FOR-LEGAL-RECORDS/blob/main/build/static/js/main.32ae5f7a.js.LICENSE.txt)) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/kajalakshmii/DEVELOPING-A-BLOCKCHAIN-BASED-EVAULT-FOR-LEGAL-RECORDS/blob/main/build/static/js/main.32ae5f7a.js.LICENSE.txt) file for details.
 
 ---
 
