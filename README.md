@@ -70,8 +70,8 @@ Modifications and additional features were developed by:
 - **Dheeraj Mishra**
 - **Saquib Hussain**
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## License      
+This project is licensed under the MIT License - see the [LICENSE]([LICENSE](https://github.com/kajalakshmii/DEVELOPING-A-BLOCKCHAIN-BASED-EVAULT-FOR-LEGAL-RECORDS/blob/main/build/static/js/main.32ae5f7a.js.LICENSE.txt)) file for details.
 
 ---
 
